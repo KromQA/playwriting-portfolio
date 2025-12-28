@@ -25,4 +25,4 @@ if ( correctPassword == enteredPassword) {
     console.log('Login successfull')
 } else {
     console.log('Wrong password')
-}
+}sss
